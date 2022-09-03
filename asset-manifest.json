@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cajita-uwu/static/css/main.a240c550.css",
+    "main.js": "/cajita-uwu/static/js/main.765d8a76.js",
+    "index.html": "/cajita-uwu/index.html",
+    "main.a240c550.css.map": "/cajita-uwu/static/css/main.a240c550.css.map",
+    "main.765d8a76.js.map": "/cajita-uwu/static/js/main.765d8a76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.765d8a76.js"
+  ]
+}
